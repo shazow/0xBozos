@@ -1,2 +1,2 @@
 build:
-	echo "TODO"
+	forge build
